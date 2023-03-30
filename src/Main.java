@@ -9,5 +9,10 @@ public class Main {
        engine.cylender="8";
        engine.Size="1234cc";
        engine.weight="6453k";
+
+       Lights neon=new Lights();
+       neon.intensity="7675lumin";
+       neon.color="red";
+       neon.size="15cm";
     }
 }
