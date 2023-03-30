@@ -9,5 +9,11 @@ public class Main {
        engine.cylender="8";
        engine.Size="1234cc";
        engine.weight="6453k";
+
+       color col=new color();
+       col.colorLights="True";
+       col.colorTyre="false";
+       col.colorWindows="True";
+
     }
 }
